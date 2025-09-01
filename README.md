@@ -1,4 +1,4 @@
 # Репозиторий для хранения домашних заданий
 ### Курс DE-101
-         Module 01 - Dashboard
+         Module 01 - Dashboard в Excel
 ### Курс SQL
